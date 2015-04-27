@@ -9,7 +9,7 @@ Tool that makes it easier for people with bad vision to navigate through their i
 
 ## License
 
-This project is free to copy and use.
+This code is distributed under the terms and conditions of the MIT license.
 
 ## Author
 
