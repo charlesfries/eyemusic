@@ -7,6 +7,10 @@ Tool that makes it easier for people with bad vision to navigate through their i
 * Compatible with applications that utilize AVAudioPlayer
 * Super basic!
 
-## About
+## License
 
-By Charles Fries
+This project is free to copy and use.
+
+## Author
+
+Developed by Charles Fries
