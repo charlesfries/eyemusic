@@ -1,5 +1,7 @@
 # EyeMusic
 
+![Screenshot](http://i.imgur.com/snFUVst.png)
+
 Tool that makes it easier for people with bad vision to navigate through their iTunes library.
 
 ## Features
