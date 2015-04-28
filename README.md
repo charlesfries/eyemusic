@@ -16,3 +16,5 @@ This code is distributed under the terms and conditions of the MIT license.
 ## Author
 
 Developed by Charles Fries
+
+Dedicated to LaJeanne Fioretti
